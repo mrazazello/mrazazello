@@ -1,8 +1,6 @@
-# azazello
+# Hi there 👋
 
-## Hi there 👋
-
-<h3 align="left"> 📫 Contacts:</h3>
+<h1 align="left"> 📫 Contacts:</h1>
 - Email: mr.azazello@gmail.com <br>
 - Telegram: <a href="https://t.me/mrazazello" alt="Telegram">@mrazazello</a>
 
@@ -19,4 +17,9 @@
   <img src="./assets/sass.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="./assets/figma.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="./assets/redux.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+</div>
+
+<br />
+<div>
+    <img src="https://www.codewars.com/users/mr.azazello/badges/large" title="codewars" />
 </div>
