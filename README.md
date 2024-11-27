@@ -1,11 +1,12 @@
 # Hi there 👋
 
-<h1 align="left"> 📫 Contacts:</h1>
-- Email: mr.azazello@gmail.com <br>
-- Telegram: <a href="https://t.me/mrazazello" alt="Telegram">@mrazazello</a>
+<h3>📫 Contacts:</h3>
+<ul>
+<li>Email: mr.azazello@gmail.com </li>
+<li>Telegram: <a href="https://t.me/mrazazello" alt="Telegram">@mrazazello</li>
+</ul>
 
-
-<h3 align="left"> ⚡Languages and Tools:</h3>
+<h3>⚡Languages and Tools:</h3>
 
 <div>
   <img src="./assets/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp
