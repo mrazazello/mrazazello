@@ -20,7 +20,4 @@
   <img src="./assets/redux.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
 </div>
 
-<br />
-<div>
-    <img src="https://www.codewars.com/users/mr.azazello/badges/large" title="codewars" />
-</div>
+
